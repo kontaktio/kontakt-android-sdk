@@ -1,0 +1,11 @@
+com.kontakt.sdk.ble.callback
+com.kontakt.sdk.ble.configuration
+com.kontakt.sdk.ble.connection
+com.kontakt.sdk.ble.data
+com.kontakt.sdk.ble.device
+com.kontakt.sdk.ble.discovery
+com.kontakt.sdk.ble.filter
+com.kontakt.sdk.ble.manager
+com.kontakt.sdk.ble.math
+com.kontakt.sdk.ble.rssi
+com.kontakt.sdk.ble.util
