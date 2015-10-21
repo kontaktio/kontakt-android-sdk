@@ -3,6 +3,17 @@ Android-SDK
 
 The repository contains prebuilt artifacts ready to be included to project manually. For more information concerning installation and examples please check our [docs website].
 
+##LATEST VERSION
+
+Latest version is 2.0.1
+
+It fixes bugs related to inconsistent event firing DEVICE_LOST/DEVICE_DISCOVERED and Eddystone beacon proximity and distance updating.
+
+##GRADLE dependency
+```
+compile 'com.kontakt.sdk.android:kontakt.io-android-sdk:{latest-version}'
+```
+
 ##LICENSE
 Licensed under Creative Commons Attribution-NoDerivs 3.0 Unported
 
