@@ -5,7 +5,7 @@ The repository contains prebuilt artifacts ready to be included to project manua
 
 ##LATEST VERSION
 
-Latest version is 2.0.1
+Latest version is 2.1.0
 
 It fixes bugs related to inconsistent event firing DEVICE_LOST/DEVICE_DISCOVERED and Eddystone beacon proximity and distance updating.
 
@@ -27,4 +27,4 @@ You may obtain copy of the license at https://creativecommons.org/licenses/by-nd
 
 For more information please visit our [docs website].
 
-[docs website]:http://docs.kontakt.io/android-sdk/quickstart/
+[docs website]:http://docs.kontakt.io
