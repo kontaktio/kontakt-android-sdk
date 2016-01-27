@@ -5,9 +5,7 @@ The repository contains prebuilt artifacts ready to be included to project manua
 
 ##LATEST VERSION
 
-Latest version is 2.1.0
-
-It fixes bugs related to inconsistent event firing DEVICE_LOST/DEVICE_DISCOVERED and Eddystone beacon proximity and distance updating.
+Latest version is 2.1.1
 
 ##GRADLE dependency
 ```
