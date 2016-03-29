@@ -5,11 +5,11 @@ The repository contains prebuilt artifacts ready to be included to project manua
 
 ##LATEST VERSION
 
-Latest version is 2.1.1
+Latest version is 2.1.2
 
 ##GRADLE dependency
 ```
-compile 'com.kontakt.sdk.android:kontakt.io-android-sdk:{latest-version}'
+compile 'com.kontaktio.sdk:kontakt-sdk:2.1.2'
 ```
 
 ##LICENSE
