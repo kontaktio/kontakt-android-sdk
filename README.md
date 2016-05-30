@@ -5,11 +5,11 @@ The repository contains prebuilt artifacts ready to be included to project manua
 
 ##LATEST VERSION
 
-Latest version is 2.1.2
+Latest version is 3.0
 
 ##GRADLE dependency
 ```
-compile 'com.kontaktio.sdk:kontakt-sdk:2.1.2'
+compile 'com.kontaktio:sdk:3.0.0'
 ```
 
 ##LICENSE
@@ -25,4 +25,4 @@ You may obtain copy of the license at https://creativecommons.org/licenses/by-nd
 
 For more information please visit our [docs website].
 
-[docs website]:http://developer.kontakt.io/android-sdk/2.1.0/quickstart/
+[docs website]:http://developer.kontakt.io/android-sdk/3.0.0/quickstart/
