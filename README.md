@@ -5,11 +5,11 @@ The repository contains prebuilt artifacts ready to be included to project manua
 
 ##LATEST VERSION
 
-Latest version is 3.0
+Latest version is 3.1.0
 
 ##GRADLE dependency
 ```
-compile 'com.kontaktio:sdk:3.0.0'
+compile 'com.kontaktio:sdk:3.1.0'
 ```
 
 ##LICENSE
