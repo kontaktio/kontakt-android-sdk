@@ -3,16 +3,16 @@ Android-SDK
 
 The repository contains prebuilt artifacts ready to be included to project manually. For more information concerning installation and examples please check our [docs website].
 
-##LATEST VERSION
+## LATEST VERSION
 
 Latest version is 3.3.0
 
-##GRADLE dependency
+## GRADLE dependency
 ```
 compile 'com.kontaktio:sdk:3.3.0'
 ```
 
-##LICENSE
+## LICENSE
 Licensed under Creative Commons Attribution-NoDerivs 3.0 Unported
 
 <p>
