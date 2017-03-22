@@ -104,6 +104,13 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+Kontakt.io Administration App
+===========
+To manage Kontakt.io devices please use our [Administration App](https://play.google.com/store/apps/details?id=com.kontakt.app).
+<p align="left">
+  <img src="http://i.imgur.com/phFdFPq.png">
+</p>
+
 ## License
 Licensed under Creative Commons Attribution-NoDerivs 3.0 Unported
 
