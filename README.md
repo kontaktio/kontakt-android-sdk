@@ -33,7 +33,7 @@ dependencies {
 ```
 4. Make sure Bluetooth is enabled on your device. 
 
-5. [If you are running Android 6.0 or higher make sure LOCATION_PERMISSION is granted (https://developer.android.com/training/permissions/requesting.html)
+5. [If you are running Android 6.0 or higher make sure LOCATION_PERMISSION is granted](https://developer.android.com/training/permissions/requesting.html)
 
 6. Create simple activity that will scan for both iBeacons and Eddystones
 ``` Java
