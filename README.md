@@ -5,7 +5,7 @@
 Kontakt.io Android SDK
 ===========
 
-The repository contains prebuilt artifacts ready to be included to project manually. 
+The Kontakt.io Android SDK is a library for Android OS that provides developers with components to help build applications using Kontakt.io devices.
 
 **For full documentation please see [docs website].**
 
