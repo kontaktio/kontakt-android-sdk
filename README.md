@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://i.imgur.com/ogfeKrK.png">
+</p>
+
 Kontakt.io Android SDK
 ===========
 
