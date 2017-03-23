@@ -104,6 +104,10 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+Samples App
+===========
+For SDK usage samples see the [Samples App](https://github.com/kontaktio/kontakt-beacon-admin-sample-app)
+
 Kontakt.io Administration App
 ===========
 To manage Kontakt.io devices please use our [Administration App](https://play.google.com/store/apps/details?id=com.kontakt.app).
