@@ -21,7 +21,7 @@ dependencies {
 }
 ```
 
-2. Add neccessary permissions into your `AndroidManifest`
+2. Add necessary permissions into your `AndroidManifest`
 ``` XML
 <uses-permission android:name="android.permission.BLUETOOTH"/>
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
