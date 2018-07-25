@@ -128,4 +128,4 @@ You may obtain copy of the license at https://creativecommons.org/licenses/by-nd
 
 For more information please visit our [docs website].
 
-[docs website]:http://developer.kontakt.io/android-sdk/
+[docs website]:https://developer.kontakt.io/mobile/android/sdk/
