@@ -10,6 +10,7 @@ com.kontakt.sdk.android.ble.discovery.eddystone
 com.kontakt.sdk.android.ble.discovery.ibeacon
 com.kontakt.sdk.android.ble.discovery.secure_profile
 com.kontakt.sdk.android.ble.exception
+com.kontakt.sdk.android.ble.filter
 com.kontakt.sdk.android.ble.filter.eddystone
 com.kontakt.sdk.android.ble.filter.ibeacon
 com.kontakt.sdk.android.ble.manager
