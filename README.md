@@ -110,7 +110,7 @@ For SDK usage samples see the [Samples App](https://github.com/kontaktio/kontakt
 
 Kontakt.io Administration App
 ===========
-To manage Kontakt.io devices please use our [Administration App](https://play.google.com/store/apps/details?id=com.kontakt.app).
+To manage Kontakt.io devices please use our [Administration App](https://play.google.com/store/apps/details?id=io.kontakt.app).
 <p align="left">
   <img src="http://i.imgur.com/phFdFPq.png">
 </p>
