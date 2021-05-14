@@ -11,13 +11,13 @@ The Kontakt.io Android SDK is a library for Android OS that provides developers 
 
 ## Latest Version
 
-Latest version is 5.0.2
+Latest version is 5.0.7
 
 ## Quickstart
 1. Add Gradle dependency into your app's `build.config`
 ``` Groovy
 dependencies {
-    compile 'com.kontaktio:sdk:{latest_version}'
+    compile 'io.kontakt.mvn:sdk:{latest_version}'
 }
 ```
 
