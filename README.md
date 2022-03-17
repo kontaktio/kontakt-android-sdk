@@ -11,8 +11,7 @@ The Kontakt.io Android SDK is a library for Android OS that provides developers 
 
 ## Latest Version
 
-Latest version is 7.0.0 (support for Android 12)
-For clients not ready for migration to Android 12, the version is 6.0.0
+Latest version is 7.0.1
 
 ## Quickstart
 1. Add Gradle dependency into your app's `build.config`
