@@ -23,12 +23,17 @@ dependencies {
 
 2. Add necessary permissions into your `AndroidManifest`
 ``` XML
-<uses-permission android:name="android.permission.BLUETOOTH"/>
-<uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+<uses-permission android:name="android.permission.BLUETOOTH"/> // add android:maxSdkVersion="30" when compiling against sdk 31 or higher
+<uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/> // add android:maxSdkVersion="30" when compiling against sdk 31 or higher
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-//For Android 6.0+
+
+// Access fine location is necessary when sdk version is equal / bigger than Android 10; below that you can use ACCESS_COARSE_LOCATION for BT scanning; when targetting Android 12 or higher, and BLUETOOTH_SCAN does not have neverForLocation tag, ACCESS_FINE_LOCATION should also be present in the manifest file
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+// When compiling against and targetting sdk=31 and higher
+<uses-permission android:name="android.permission.BLUETOOTH_SCAN" /> // you could also add "neverForLocation"=true and remove ACCESS_FINE_LOCATION permission if location is used only for bt scanning purposes
+// When compiling against and targetting sdk=31 and higher
+<uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
 ```
 
 3. Add ProximityService int your `AndroidManifest` application section
@@ -37,7 +42,7 @@ dependencies {
 ```
 4. Make sure Bluetooth is enabled on your device. 
 
-5. [If you are running Android 6.0 or higher make sure LOCATION_PERMISSION is granted](https://developer.android.com/training/permissions/requesting.html)
+5. [Ask about the necessary runtime permissions](https://developer.android.com/training/permissions/requesting.html)
 
 6. Create simple activity that will scan for both iBeacons and Eddystones
 ``` Java
@@ -128,4 +133,4 @@ You may obtain copy of the license at https://creativecommons.org/licenses/by-nd
 
 For more information please visit our [docs website].
 
-[docs website]:https://developer.kontakt.io/mobile/android/sdk/
+[docs website]:https://kontakt-api-docs.stoplight.io/docs/dev-ctr-sdks/ZG9jOjMwMzg3NjUz-getting-started
